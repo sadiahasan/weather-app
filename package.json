@@ -13,6 +13,7 @@
     "hoek": "^5.0.4",
     "request": "^2.73.0",
     "salesforce": "^0.1.2",
+    "tough-cookie": "^2.3.3",
     "yargs": "^4.8.1"
   }
 }
